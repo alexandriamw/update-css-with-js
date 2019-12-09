@@ -1,0 +1,1 @@
+# Day 3 of the [JavaScript 30 Challenge](https://javascript30.com/)
