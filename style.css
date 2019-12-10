@@ -1,4 +1,25 @@
+:root {
+    --base: #814813;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
 img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
     height: 500px;
     width: auto;
+}
+
+.hl {
+    color: var(--base);
+}
+
+body {
+    text-align: center;
+}
+
+input {
+    width: 100px;
 }
