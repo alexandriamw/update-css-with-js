@@ -18,8 +18,19 @@ img {
 
 body {
     text-align: center;
+    font-family: 'Solway', serif;
+    background-color: #273E47;
+    color: #FFEEDD;
 }
 
 input {
     width: 100px;
+}
+
+.controls {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 30px;
 }
